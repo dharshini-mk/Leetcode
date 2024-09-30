@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dharshini-mk/Leetcode/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharshini-mk/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/dharshini-mk/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0941-sort-array-by-parity](https://github.com/dharshini-mk/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshini-mk/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dharshini-mk/Leetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/dharshini-mk/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/dharshini-mk/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/dharshini-mk/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/dharshini-mk/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dharshini-mk/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dharshini-mk/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/dharshini-mk/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
