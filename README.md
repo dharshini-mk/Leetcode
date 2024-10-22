@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/dharshini-mk/Leetcode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/dharshini-mk/Leetcode/tree/master/0067-add-binary) |
+| [0292-nim-game](https://github.com/dharshini-mk/Leetcode/tree/master/0292-nim-game) |
 ## String
 |  |
 | ------- |
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/dharshini-mk/Leetcode/tree/master/0206-reverse-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/dharshini-mk/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/dharshini-mk/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
