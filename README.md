@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dharshini-mk/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharshini-mk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/dharshini-mk/Leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharshini-mk/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/dharshini-mk/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0739-daily-temperatures](https://github.com/dharshini-mk/Leetcode/tree/master/0739-daily-temperatures) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dharshini-mk/Leetcode/tree/master/0011-container-with-most-water) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshini-mk/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Sorting
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dharshini-mk/Leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharshini-mk/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0908-middle-of-the-linked-list](https://github.com/dharshini-mk/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/dharshini-mk/Leetcode/tree/master/0941-sort-array-by-parity) |
