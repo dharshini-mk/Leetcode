@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dharshini-mk/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharshini-mk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/dharshini-mk/Leetcode/tree/master/0011-container-with-most-water) |
+| [0051-n-queens](https://github.com/dharshini-mk/Leetcode/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharshini-mk/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/dharshini-mk/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/dharshini-mk/Leetcode/tree/master/0220-contains-duplicate-iii) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/dharshini-mk/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/dharshini-mk/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
