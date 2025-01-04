@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/dharshini-mk/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/dharshini-mk/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1168-duplicate-zeros](https://github.com/dharshini-mk/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/dharshini-mk/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dharshini-mk/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dharshini-mk/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshini-mk/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
