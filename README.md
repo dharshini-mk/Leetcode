@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/dharshini-mk/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0739-daily-temperatures](https://github.com/dharshini-mk/Leetcode/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/dharshini-mk/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/dharshini-mk/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshini-mk/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dharshini-mk/Leetcode/tree/master/0067-add-binary) |
 | [0292-nim-game](https://github.com/dharshini-mk/Leetcode/tree/master/0292-nim-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dharshini-mk/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/dharshini-mk/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
 | ------- |
