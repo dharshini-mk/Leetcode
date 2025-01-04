@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/dharshini-mk/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0739-daily-temperatures](https://github.com/dharshini-mk/Leetcode/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/dharshini-mk/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0978-valid-mountain-array](https://github.com/dharshini-mk/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1168-duplicate-zeros](https://github.com/dharshini-mk/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dharshini-mk/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dharshini-mk/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
