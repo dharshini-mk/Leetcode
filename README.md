@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dharshini-mk/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharshini-mk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/dharshini-mk/Leetcode/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/dharshini-mk/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/dharshini-mk/Leetcode/tree/master/0051-n-queens) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dharshini-mk/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dharshini-mk/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/dharshini-mk/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/dharshini-mk/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0220-contains-duplicate-iii](https://github.com/dharshini-mk/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/dharshini-mk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dharshini-mk/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/dharshini-mk/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/dharshini-mk/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/dharshini-mk/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/dharshini-mk/Leetcode/tree/master/0290-word-pattern) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharshini-mk/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/dharshini-mk/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/dharshini-mk/Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/dharshini-mk/Leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/dharshini-mk/Leetcode/tree/master/0205-isomorphic-strings) |
