@@ -192,5 +192,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/dharshini-mk/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0607-sales-person](https://github.com/dharshini-mk/Leetcode/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/dharshini-mk/Leetcode/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/dharshini-mk/Leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/dharshini-mk/Leetcode/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
