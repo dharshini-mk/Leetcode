@@ -196,5 +196,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/dharshini-mk/Leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/dharshini-mk/Leetcode/tree/master/0627-swap-salary) |
 | [1174-sales-analysis-iii](https://github.com/dharshini-mk/Leetcode/tree/master/1174-sales-analysis-iii) |
+| [1179-game-play-analysis-i](https://github.com/dharshini-mk/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/dharshini-mk/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
