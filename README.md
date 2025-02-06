@@ -201,4 +201,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-sales-analysis-iii](https://github.com/dharshini-mk/Leetcode/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/dharshini-mk/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/dharshini-mk/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/dharshini-mk/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
