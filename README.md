@@ -206,4 +206,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-top-travellers](https://github.com/dharshini-mk/Leetcode/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/dharshini-mk/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/dharshini-mk/Leetcode/tree/master/1670-patients-with-a-condition) |
+| [1734-bank-account-summary-ii](https://github.com/dharshini-mk/Leetcode/tree/master/1734-bank-account-summary-ii) |
 <!---LeetCode Topics End-->
