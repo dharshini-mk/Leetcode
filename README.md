@@ -215,4 +215,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-daily-leads-and-partners](https://github.com/dharshini-mk/Leetcode/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/dharshini-mk/Leetcode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/dharshini-mk/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [1942-primary-department-for-each-employee](https://github.com/dharshini-mk/Leetcode/tree/master/1942-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
