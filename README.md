@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/dharshini-mk/Leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/dharshini-mk/Leetcode/tree/master/0067-add-binary) |
 | [0292-nim-game](https://github.com/dharshini-mk/Leetcode/tree/master/0292-nim-game) |
+| [0492-construct-the-rectangle](https://github.com/dharshini-mk/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dharshini-mk/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dharshini-mk/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## String
