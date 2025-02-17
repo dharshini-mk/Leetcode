@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dharshini-mk/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/dharshini-mk/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/dharshini-mk/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/dharshini-mk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dharshini-mk/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dharshini-mk/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharshini-mk/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharshini-mk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/dharshini-mk/Leetcode/tree/master/0053-maximum-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2127-employees-whose-manager-left-the-company](https://github.com/dharshini-mk/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/dharshini-mk/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3782-find-valid-emails](https://github.com/dharshini-mk/Leetcode/tree/master/3782-find-valid-emails) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/dharshini-mk/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
