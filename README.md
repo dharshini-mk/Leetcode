@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/dharshini-mk/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dharshini-mk/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dharshini-mk/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2083-three-divisors](https://github.com/dharshini-mk/Leetcode/tree/master/2083-three-divisors) |
 ## String
 |  |
 | ------- |
@@ -265,4 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/dharshini-mk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharshini-mk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/dharshini-mk/Leetcode/tree/master/0152-maximum-product-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/dharshini-mk/Leetcode/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/dharshini-mk/Leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
