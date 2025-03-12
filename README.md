@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/dharshini-mk/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0941-sort-array-by-parity](https://github.com/dharshini-mk/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/dharshini-mk/Leetcode/tree/master/0978-valid-mountain-array) |
+| [1044-find-common-characters](https://github.com/dharshini-mk/Leetcode/tree/master/1044-find-common-characters) |
 | [1168-duplicate-zeros](https://github.com/dharshini-mk/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/dharshini-mk/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/dharshini-mk/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/dharshini-mk/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dharshini-mk/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dharshini-mk/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1044-find-common-characters](https://github.com/dharshini-mk/Leetcode/tree/master/1044-find-common-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dharshini-mk/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Math
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/dharshini-mk/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/dharshini-mk/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dharshini-mk/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1044-find-common-characters](https://github.com/dharshini-mk/Leetcode/tree/master/1044-find-common-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dharshini-mk/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Bit Manipulation
 |  |
