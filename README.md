@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshini-mk/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshini-mk/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dharshini-mk/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3311-ant-on-the-boundary](https://github.com/dharshini-mk/Leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Greedy
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/dharshini-mk/Leetcode/tree/master/0067-add-binary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dharshini-mk/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3311-ant-on-the-boundary](https://github.com/dharshini-mk/Leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Binary Search
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dharshini-mk/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/dharshini-mk/Leetcode/tree/master/0724-find-pivot-index) |
+| [3311-ant-on-the-boundary](https://github.com/dharshini-mk/Leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Matrix
 |  |
 | ------- |
