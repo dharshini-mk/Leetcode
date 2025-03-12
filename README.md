@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/dharshini-mk/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/dharshini-mk/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/dharshini-mk/Leetcode/tree/master/0739-daily-temperatures) |
+| [0777-toeplitz-matrix](https://github.com/dharshini-mk/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0941-sort-array-by-parity](https://github.com/dharshini-mk/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/dharshini-mk/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1168-duplicate-zeros](https://github.com/dharshini-mk/Leetcode/tree/master/1168-duplicate-zeros) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0777-toeplitz-matrix](https://github.com/dharshini-mk/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshini-mk/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Database
 |  |
