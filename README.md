@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshini-mk/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshini-mk/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dharshini-mk/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dharshini-mk/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3311-ant-on-the-boundary](https://github.com/dharshini-mk/Leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Greedy
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/dharshini-mk/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/dharshini-mk/Leetcode/tree/master/0561-array-partition) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshini-mk/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dharshini-mk/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/dharshini-mk/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshini-mk/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dharshini-mk/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dharshini-mk/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Queue
 |  |
 | ------- |
