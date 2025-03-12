@@ -1,16 +1,10 @@
 class Solution {
     public void rotate(int[] nums, int k) {
         int n = nums.length;
-        k = k % n;
-        int[] temp = new int[n]; 
+        k = k % n; 
 
-        for (int i = 0; i < k; i++)
-            temp[i] = nums[n - k + i];
-
-        for (int i = 0; i < n - k; i++)
-            temp[k + i] = nums[i];
-
-        for (int i = 0; i < n; i++)
-            nums[i] = temp[i];
+        int[] temp = Arrays.copyOfRange(nums, n - k, n); // Copy last k elements
+        System.arraycopy(nums, 0, nums, k, n - k); // Shift first (n-k) elements right
+        System.arraycopy(temp, 0, nums, 0, k); // Copy temp back to the front
     }
 }
