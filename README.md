@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/dharshini-mk/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharshini-mk/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dharshini-mk/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/dharshini-mk/Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/dharshini-mk/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/dharshini-mk/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/dharshini-mk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharshini-mk/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/dharshini-mk/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharshini-mk/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/dharshini-mk/Leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/dharshini-mk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/dharshini-mk/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/dharshini-mk/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/dharshini-mk/Leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/dharshini-mk/Leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/dharshini-mk/Leetcode/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/dharshini-mk/Leetcode/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/dharshini-mk/Leetcode/tree/master/0292-nim-game) |
 | [0492-construct-the-rectangle](https://github.com/dharshini-mk/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dharshini-mk/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
