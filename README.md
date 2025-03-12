@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dharshini-mk/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dharshini-mk/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharshini-mk/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/dharshini-mk/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/dharshini-mk/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/dharshini-mk/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/dharshini-mk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/dharshini-mk/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/dharshini-mk/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/dharshini-mk/Leetcode/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/dharshini-mk/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/dharshini-mk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/dharshini-mk/Leetcode/tree/master/0561-array-partition) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dharshini-mk/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/dharshini-mk/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dharshini-mk/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/dharshini-mk/Leetcode/tree/master/0561-array-partition) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dharshini-mk/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/dharshini-mk/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/dharshini-mk/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/dharshini-mk/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/dharshini-mk/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/dharshini-mk/Leetcode/tree/master/0290-word-pattern) |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharshini-mk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/dharshini-mk/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/dharshini-mk/Leetcode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
