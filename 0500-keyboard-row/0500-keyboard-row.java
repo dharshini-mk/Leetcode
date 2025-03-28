@@ -29,8 +29,8 @@ class Solution {
                 l.add(words[i]);
         }
         String[] a = new String[l.size()];
-        for (int i = 0; i < l.size(); i++)
-            a[i] = l.get(i);
+        for (int i=0;i<l.size();i++)
+            a[i]=l.get(i);
         return a;
     }
 }
