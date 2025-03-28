@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/dharshini-mk/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/dharshini-mk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dharshini-mk/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0500-keyboard-row](https://github.com/dharshini-mk/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/dharshini-mk/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/dharshini-mk/Leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/dharshini-mk/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/dharshini-mk/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dharshini-mk/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dharshini-mk/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0500-keyboard-row](https://github.com/dharshini-mk/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/dharshini-mk/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1044-find-common-characters](https://github.com/dharshini-mk/Leetcode/tree/master/1044-find-common-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dharshini-mk/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/dharshini-mk/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/dharshini-mk/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dharshini-mk/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0500-keyboard-row](https://github.com/dharshini-mk/Leetcode/tree/master/0500-keyboard-row) |
 | [0742-to-lower-case](https://github.com/dharshini-mk/Leetcode/tree/master/0742-to-lower-case) |
 | [1044-find-common-characters](https://github.com/dharshini-mk/Leetcode/tree/master/1044-find-common-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dharshini-mk/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
