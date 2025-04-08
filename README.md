@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/dharshini-mk/Leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/dharshini-mk/Leetcode/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/dharshini-mk/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/dharshini-mk/Leetcode/tree/master/0183-customers-who-never-order) |
