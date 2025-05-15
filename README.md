@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/dharshini-mk/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/dharshini-mk/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dharshini-mk/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0466-count-the-repetitions](https://github.com/dharshini-mk/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0500-keyboard-row](https://github.com/dharshini-mk/Leetcode/tree/master/0500-keyboard-row) |
 | [0742-to-lower-case](https://github.com/dharshini-mk/Leetcode/tree/master/0742-to-lower-case) |
 | [1044-find-common-characters](https://github.com/dharshini-mk/Leetcode/tree/master/1044-find-common-characters) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharshini-mk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/dharshini-mk/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0354-russian-doll-envelopes](https://github.com/dharshini-mk/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0466-count-the-repetitions](https://github.com/dharshini-mk/Leetcode/tree/master/0466-count-the-repetitions) |
 ## Enumeration
 |  |
 | ------- |
