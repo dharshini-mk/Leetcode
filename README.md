@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/dharshini-mk/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/dharshini-mk/Leetcode/tree/master/0472-concatenated-words) |
 | [0500-keyboard-row](https://github.com/dharshini-mk/Leetcode/tree/master/0500-keyboard-row) |
+| [0591-tag-validator](https://github.com/dharshini-mk/Leetcode/tree/master/0591-tag-validator) |
 | [0742-to-lower-case](https://github.com/dharshini-mk/Leetcode/tree/master/0742-to-lower-case) |
 | [1044-find-common-characters](https://github.com/dharshini-mk/Leetcode/tree/master/1044-find-common-characters) |
 | [1524-string-matching-in-an-array](https://github.com/dharshini-mk/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/dharshini-mk/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0591-tag-validator](https://github.com/dharshini-mk/Leetcode/tree/master/0591-tag-validator) |
 | [0739-daily-temperatures](https://github.com/dharshini-mk/Leetcode/tree/master/0739-daily-temperatures) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dharshini-mk/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
