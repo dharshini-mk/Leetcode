@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/dharshini-mk/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/dharshini-mk/Leetcode/tree/master/0455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/dharshini-mk/Leetcode/tree/master/0472-concatenated-words) |
+| [0480-sliding-window-median](https://github.com/dharshini-mk/Leetcode/tree/master/0480-sliding-window-median) |
 | [0500-keyboard-row](https://github.com/dharshini-mk/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/dharshini-mk/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/dharshini-mk/Leetcode/tree/master/0561-array-partition) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/dharshini-mk/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dharshini-mk/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0460-lfu-cache](https://github.com/dharshini-mk/Leetcode/tree/master/0460-lfu-cache) |
+| [0480-sliding-window-median](https://github.com/dharshini-mk/Leetcode/tree/master/0480-sliding-window-median) |
 | [0500-keyboard-row](https://github.com/dharshini-mk/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/dharshini-mk/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1044-find-common-characters](https://github.com/dharshini-mk/Leetcode/tree/master/1044-find-common-characters) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dharshini-mk/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/dharshini-mk/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0480-sliding-window-median](https://github.com/dharshini-mk/Leetcode/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/dharshini-mk/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Stack
 |  |
@@ -391,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/dharshini-mk/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/dharshini-mk/Leetcode/tree/master/0472-concatenated-words) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/dharshini-mk/Leetcode/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
