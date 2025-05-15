@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dharshini-mk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/dharshini-mk/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/dharshini-mk/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0391-perfect-rectangle](https://github.com/dharshini-mk/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dharshini-mk/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/dharshini-mk/Leetcode/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/dharshini-mk/Leetcode/tree/master/0500-keyboard-row) |
@@ -345,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dharshini-mk/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/dharshini-mk/Leetcode/tree/master/0112-path-sum) |
+## Line Sweep
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/dharshini-mk/Leetcode/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
