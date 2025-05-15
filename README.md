@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/dharshini-mk/Leetcode/tree/master/0472-concatenated-words) |
 | [0500-keyboard-row](https://github.com/dharshini-mk/Leetcode/tree/master/0500-keyboard-row) |
 | [0591-tag-validator](https://github.com/dharshini-mk/Leetcode/tree/master/0591-tag-validator) |
+| [0664-strange-printer](https://github.com/dharshini-mk/Leetcode/tree/master/0664-strange-printer) |
 | [0742-to-lower-case](https://github.com/dharshini-mk/Leetcode/tree/master/0742-to-lower-case) |
 | [1044-find-common-characters](https://github.com/dharshini-mk/Leetcode/tree/master/1044-find-common-characters) |
 | [1524-string-matching-in-an-array](https://github.com/dharshini-mk/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/dharshini-mk/Leetcode/tree/master/0472-concatenated-words) |
 | [0546-remove-boxes](https://github.com/dharshini-mk/Leetcode/tree/master/0546-remove-boxes) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/dharshini-mk/Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0664-strange-printer](https://github.com/dharshini-mk/Leetcode/tree/master/0664-strange-printer) |
 ## Enumeration
 |  |
 | ------- |
