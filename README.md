@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dharshini-mk/Leetcode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/dharshini-mk/Leetcode/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/dharshini-mk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/dharshini-mk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/dharshini-mk/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/dharshini-mk/Leetcode/tree/master/0190-reverse-bits) |
 ## Linked List
 |  |
 | ------- |
