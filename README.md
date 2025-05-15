@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/dharshini-mk/Leetcode/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/dharshini-mk/Leetcode/tree/master/0483-smallest-good-base) |
 | [0492-construct-the-rectangle](https://github.com/dharshini-mk/Leetcode/tree/master/0492-construct-the-rectangle) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/dharshini-mk/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dharshini-mk/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dharshini-mk/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2083-three-divisors](https://github.com/dharshini-mk/Leetcode/tree/master/2083-three-divisors) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/dharshini-mk/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/dharshini-mk/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0483-smallest-good-base](https://github.com/dharshini-mk/Leetcode/tree/master/0483-smallest-good-base) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/dharshini-mk/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dharshini-mk/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshini-mk/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dharshini-mk/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
