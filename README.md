@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/dharshini-mk/Leetcode/tree/master/0480-sliding-window-median) |
 | [0500-keyboard-row](https://github.com/dharshini-mk/Leetcode/tree/master/0500-keyboard-row) |
 | [0517-super-washing-machines](https://github.com/dharshini-mk/Leetcode/tree/master/0517-super-washing-machines) |
+| [0546-remove-boxes](https://github.com/dharshini-mk/Leetcode/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/dharshini-mk/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/dharshini-mk/Leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/dharshini-mk/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/dharshini-mk/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0466-count-the-repetitions](https://github.com/dharshini-mk/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/dharshini-mk/Leetcode/tree/master/0472-concatenated-words) |
+| [0546-remove-boxes](https://github.com/dharshini-mk/Leetcode/tree/master/0546-remove-boxes) |
 ## Enumeration
 |  |
 | ------- |
@@ -402,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/dharshini-mk/Leetcode/tree/master/0480-sliding-window-median) |
+## Memoization
+|  |
+| ------- |
+| [0546-remove-boxes](https://github.com/dharshini-mk/Leetcode/tree/master/0546-remove-boxes) |
 <!---LeetCode Topics End-->
