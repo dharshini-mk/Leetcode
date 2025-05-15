@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/dharshini-mk/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/dharshini-mk/Leetcode/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/dharshini-mk/Leetcode/tree/master/0292-nim-game) |
+| [0479-largest-palindrome-product](https://github.com/dharshini-mk/Leetcode/tree/master/0479-largest-palindrome-product) |
 | [0492-construct-the-rectangle](https://github.com/dharshini-mk/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dharshini-mk/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dharshini-mk/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0479-largest-palindrome-product](https://github.com/dharshini-mk/Leetcode/tree/master/0479-largest-palindrome-product) |
 | [2083-three-divisors](https://github.com/dharshini-mk/Leetcode/tree/master/2083-three-divisors) |
 ## Number Theory
 |  |
