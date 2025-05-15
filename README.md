@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/dharshini-mk/Leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/dharshini-mk/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dharshini-mk/Leetcode/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/dharshini-mk/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/dharshini-mk/Leetcode/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/dharshini-mk/Leetcode/tree/master/0292-nim-game) |
 | [0492-construct-the-rectangle](https://github.com/dharshini-mk/Leetcode/tree/master/0492-construct-the-rectangle) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dharshini-mk/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/dharshini-mk/Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/dharshini-mk/Leetcode/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/dharshini-mk/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/dharshini-mk/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/dharshini-mk/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/dharshini-mk/Leetcode/tree/master/0383-ransom-note) |
