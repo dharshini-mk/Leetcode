@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3782-find-valid-emails](https://github.com/dharshini-mk/Leetcode/tree/master/3782-find-valid-emails) |
 | [3792-find-invalid-ip-addresses](https://github.com/dharshini-mk/Leetcode/tree/master/3792-find-invalid-ip-addresses) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/dharshini-mk/Leetcode/tree/master/3803-find-products-with-valid-serial-numbers) |
+| [3828-analyze-organization-hierarchy](https://github.com/dharshini-mk/Leetcode/tree/master/3828-analyze-organization-hierarchy) |
 ## Dynamic Programming
 |  |
 | ------- |
