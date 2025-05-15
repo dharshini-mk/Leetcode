@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/dharshini-mk/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dharshini-mk/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/dharshini-mk/Leetcode/tree/master/0455-assign-cookies) |
+| [0472-concatenated-words](https://github.com/dharshini-mk/Leetcode/tree/master/0472-concatenated-words) |
 | [0500-keyboard-row](https://github.com/dharshini-mk/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/dharshini-mk/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/dharshini-mk/Leetcode/tree/master/0561-array-partition) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/dharshini-mk/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dharshini-mk/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0466-count-the-repetitions](https://github.com/dharshini-mk/Leetcode/tree/master/0466-count-the-repetitions) |
+| [0472-concatenated-words](https://github.com/dharshini-mk/Leetcode/tree/master/0472-concatenated-words) |
 | [0500-keyboard-row](https://github.com/dharshini-mk/Leetcode/tree/master/0500-keyboard-row) |
 | [0742-to-lower-case](https://github.com/dharshini-mk/Leetcode/tree/master/0742-to-lower-case) |
 | [1044-find-common-characters](https://github.com/dharshini-mk/Leetcode/tree/master/1044-find-common-characters) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/dharshini-mk/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0354-russian-doll-envelopes](https://github.com/dharshini-mk/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0466-count-the-repetitions](https://github.com/dharshini-mk/Leetcode/tree/master/0466-count-the-repetitions) |
+| [0472-concatenated-words](https://github.com/dharshini-mk/Leetcode/tree/master/0472-concatenated-words) |
 ## Enumeration
 |  |
 | ------- |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/dharshini-mk/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/dharshini-mk/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dharshini-mk/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0472-concatenated-words](https://github.com/dharshini-mk/Leetcode/tree/master/0472-concatenated-words) |
 ## Binary Tree
 |  |
 | ------- |
@@ -384,4 +388,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/dharshini-mk/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0472-concatenated-words](https://github.com/dharshini-mk/Leetcode/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
