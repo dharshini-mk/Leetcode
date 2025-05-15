@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/dharshini-mk/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/dharshini-mk/Leetcode/tree/master/0472-concatenated-words) |
 | [0546-remove-boxes](https://github.com/dharshini-mk/Leetcode/tree/master/0546-remove-boxes) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/dharshini-mk/Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 ## Enumeration
 |  |
 | ------- |
