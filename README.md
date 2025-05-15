@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dharshini-mk/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/dharshini-mk/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/dharshini-mk/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/dharshini-mk/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/dharshini-mk/Leetcode/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dharshini-mk/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dharshini-mk/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/dharshini-mk/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/dharshini-mk/Leetcode/tree/master/0067-add-binary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dharshini-mk/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3311-ant-on-the-boundary](https://github.com/dharshini-mk/Leetcode/tree/master/3311-ant-on-the-boundary) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/dharshini-mk/Leetcode/tree/master/0054-spiral-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/dharshini-mk/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0777-toeplitz-matrix](https://github.com/dharshini-mk/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshini-mk/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
