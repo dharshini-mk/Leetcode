@@ -7,15 +7,19 @@ class Solution {
         if (k == 0)
         {
             Map<Integer, Integer> map = new HashMap<>();
-            for (int n : nums) map.put(n, map.getOrDefault(n, 0) + 1);
+            for (int n : nums)
+                map.put(n, map.getOrDefault(n, 0) + 1);
             for (int val : map.keySet())
-                if (map.get(val) > 1) count++;
+                if (map.get(val) > 1)
+                    count++;
         }
         else
         {
-            for (int n : nums) set.add(n);
+            for (int n : nums)
+                set.add(n);
             for (int val : set)
-                if (set.contains(val + k)) count++;
+                if (set.contains(val + k))
+                    count++;
         }
         return count;
     }
