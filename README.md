@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/dharshini-mk/Leetcode/tree/master/0480-sliding-window-median) |
 | [0500-keyboard-row](https://github.com/dharshini-mk/Leetcode/tree/master/0500-keyboard-row) |
 | [0517-super-washing-machines](https://github.com/dharshini-mk/Leetcode/tree/master/0517-super-washing-machines) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/dharshini-mk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0546-remove-boxes](https://github.com/dharshini-mk/Leetcode/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/dharshini-mk/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/dharshini-mk/Leetcode/tree/master/0561-array-partition) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dharshini-mk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/dharshini-mk/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0455-assign-cookies](https://github.com/dharshini-mk/Leetcode/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/dharshini-mk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/dharshini-mk/Leetcode/tree/master/0561-array-partition) |
 | [0630-course-schedule-iii](https://github.com/dharshini-mk/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0941-sort-array-by-parity](https://github.com/dharshini-mk/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dharshini-mk/Leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/dharshini-mk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/dharshini-mk/Leetcode/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/dharshini-mk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0908-middle-of-the-linked-list](https://github.com/dharshini-mk/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/dharshini-mk/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1168-duplicate-zeros](https://github.com/dharshini-mk/Leetcode/tree/master/1168-duplicate-zeros) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/dharshini-mk/Leetcode/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/dharshini-mk/Leetcode/tree/master/0480-sliding-window-median) |
 | [0500-keyboard-row](https://github.com/dharshini-mk/Leetcode/tree/master/0500-keyboard-row) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/dharshini-mk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dharshini-mk/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1044-find-common-characters](https://github.com/dharshini-mk/Leetcode/tree/master/1044-find-common-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dharshini-mk/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/dharshini-mk/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/dharshini-mk/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0483-smallest-good-base](https://github.com/dharshini-mk/Leetcode/tree/master/0483-smallest-good-base) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/dharshini-mk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/dharshini-mk/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dharshini-mk/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshini-mk/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
