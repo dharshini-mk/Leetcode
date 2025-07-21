@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/dharshini-mk/Leetcode/tree/master/0664-strange-printer) |
 | [0742-to-lower-case](https://github.com/dharshini-mk/Leetcode/tree/master/0742-to-lower-case) |
 | [1044-find-common-characters](https://github.com/dharshini-mk/Leetcode/tree/master/1044-find-common-characters) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/dharshini-mk/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/dharshini-mk/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dharshini-mk/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Bit Manipulation
