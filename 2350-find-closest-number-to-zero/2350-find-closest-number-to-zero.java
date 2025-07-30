@@ -9,7 +9,7 @@ class Solution
         {
             for(int j=i+1;j<nums.length;j++)
             {
-                if(a[i]>a[j] || (a[i] == a[j] && nums[i] < nums[j]))
+                if(a[i]>a[j]||(a[i] == a[j] && nums[i] < nums[j]))
                 {
                     int temp=a[i];
                     a[i]=a[j];
