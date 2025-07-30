@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/dharshini-mk/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshini-mk/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dharshini-mk/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2350-find-closest-number-to-zero](https://github.com/dharshini-mk/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dharshini-mk/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3311-ant-on-the-boundary](https://github.com/dharshini-mk/Leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Greedy
